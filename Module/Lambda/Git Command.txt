@@ -1,0 +1,7 @@
+git pull
+git add
+git clone
+git push
+git init
+git push
+git fetch (Update the branches locally)
